@@ -1,1 +1,1 @@
-# Snake-Game using HTML5 and CSS3.
+# Snake-Game using HTML5, CSS3 and Javascript.
